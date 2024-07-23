@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of House of the Dragon.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who is Viserys?",
+      "answers": ["King", "Knight", "Priest"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is Dragonstone?",
+      "answers": ["Castle", "City", "Island"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Who is Rhaenyra?",
+      "answers": ["Princess", "Queen", "Lady"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is Valyria?",
+      "answers": ["Empire", "Kingdom", "City"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Daemon?",
+      "answers": ["Prince", "King", "Knight"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Otto?",
+      "answers": ["Hand", "Knight", "Scribe"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Targaryen?",
+      "answers": ["House", "City", "Dragon"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Alicent?",
+      "answers": ["Queen", "Lady", "Princess"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is King's Landing?",
+      "answers": ["City", "Castle", "Port"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Corlys?",
+      "answers": ["Sailor", "Knight", "Lord"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is Iron Throne?",
+      "answers": ["Seat", "Title", "House"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Aegon?",
+      "answers": ["King", "Prince", "Knight"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Dragon?",
+      "answers": ["Beast", "House", "Weapon"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Laena?",
+      "answers": ["Lady", "Queen", "Knight"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Ser Harwin?",
+      "answers": ["Knight", "King", "Lord"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Pentos?",
+      "answers": ["City", "Island", "Castle"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Helaena?",
+      "answers": ["Princess", "Queen", "Lady"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Old Valyria?",
+      "answers": ["Ruins", "City", "Castle"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Larys?",
+      "answers": ["Spy", "Lord", "Knight"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Westeros?",
+      "answers": ["Continent", "City", "Island"],
       "correctAnswerIndex": 0
     }
   ]
